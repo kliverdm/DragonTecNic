@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703463902675",
+    "project_id": "dragontectapp",
+    "storage_bucket": "dragontectapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703463902675:android:e24ed89168e70602113326",
+        "android_client_info": {
+          "package_name": "com.example.dragontectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDur1OsDPm3VsPpK1NAIYQFMF8T6kzMXZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
